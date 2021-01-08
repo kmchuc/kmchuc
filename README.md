@@ -1,4 +1,4 @@
-### Hello! 👋 My name is Kim 
+### Hi! My name is Kim 😊
 
 Before graduating in March 2020 from Hackbright Academy, I worked as an EMT in hopes of becoming a Physician Assistant but found my passion for coding from self learning Python in my spare time. I am currently searching for my first position as a Software Engineer and feeling enthusiastic about it! 
 
