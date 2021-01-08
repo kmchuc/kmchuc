@@ -1,9 +1,6 @@
 ### Hello! 👋 My name is Kim 
 
-<!--
-**kmchuc/kmchuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Before graduating in March 2020 from Hackbright Academy, I worked as an EMT in hopes of becoming a Physician Assistant but found my passion for coding from self learning Python in my spare time. I am currently searching for my first position as a Software Engineer and feeling enthusiastic about it! 
 
 - 🔭 I’m currently working on ...
 <ul>
